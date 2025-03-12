@@ -1,2 +1,9 @@
 venv/
 db.sqlite3
+server/__pycache__/serializers.cpython-313.pyc
+server/__pycache__/settings.cpython-313.pyc
+server/__pycache__/settings.cpython-313.pyc
+server/__pycache__/urls.cpython-313.pyc
+server/__pycache__/views.cpython-313.pyc
+server/__pycache__/urls.cpython-313.pyc
+server/__pycache__/settings.cpython-313.pyc
